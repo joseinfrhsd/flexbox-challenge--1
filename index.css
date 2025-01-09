@@ -21,4 +21,12 @@ div[class^="child"] {
 
 /* FLEXBOX STYLES */
 /* Add the flexbox styles below.
-You do NOT need to touch the styles above this */
+You do NOT need to touch the styles above this */ 
+.child {
+    flex-shrink: 3;
+    flex-basis: auto;
+}
+.child2{
+    flex-shrink: 3;
+    flex-basis: auto;
+}
